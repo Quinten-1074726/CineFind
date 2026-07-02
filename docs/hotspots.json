@@ -239,4 +239,115 @@
     "longitude": 4.34715,
     "description": "Theater in Vlaardingen met voorstellingen, concerten en culturele evenementen."
   }
-]
+],
+
+{
+  "id": "pathe-tuschinski",
+  "name": "Koninklijk Theater Tuschinski",
+  "type": "Cinema",
+  "city": "Amsterdam",
+  "address": "Reguliersbreestraat 26-34",
+  "postalCode": "1017 CN",
+  "latitude": 52.36606,
+  "longitude": 4.89514,
+  "description": "Historische bioscoop in Amsterdam met een monumentale uitstraling en actuele filmprogrammering."
+},
+{
+  "id": "internationaal-theater-amsterdam",
+  "name": "Internationaal Theater Amsterdam",
+  "type": "Theater",
+  "city": "Amsterdam",
+  "address": "Leidseplein 26",
+  "postalCode": "1017 PT",
+  "latitude": 52.36472,
+  "longitude": 4.88122,
+  "description": "Groot theater aan het Leidseplein met toneel, festivals, premières en internationale producties."
+},
+{
+  "id": "pathe-utrecht-leidsche-rijn",
+  "name": "Pathé Utrecht Leidsche Rijn",
+  "type": "Cinema",
+  "city": "Utrecht",
+  "address": "Berlijnplein 100",
+  "postalCode": "3541 CM",
+  "latitude": 52.10073,
+  "longitude": 5.06441,
+  "description": "Moderne bioscoop in Leidsche Rijn Centrum met meerdere zalen en actuele films."
+},
+{
+  "id": "tivolivredenburg",
+  "name": "TivoliVredenburg",
+  "type": "Theater",
+  "city": "Utrecht",
+  "address": "Vredenburgkade 11",
+  "postalCode": "3511 WC",
+  "latitude": 52.09260,
+  "longitude": 5.11342,
+  "description": "Muziekgebouw in Utrecht met meerdere zalen voor concerten, festivals en culturele evenementen."
+},
+{
+  "id": "afas-circustheater",
+  "name": "AFAS Circustheater",
+  "type": "Theater",
+  "city": "Den Haag",
+  "address": "Circusplein 50",
+  "postalCode": "2586 CZ",
+  "latitude": 52.11170,
+  "longitude": 4.28174,
+  "description": "Bekend theater in Scheveningen waar grote musicals en theatervoorstellingen worden gespeeld."
+},
+{
+  "id": "pathe-eindhoven",
+  "name": "Pathé Eindhoven",
+  "type": "Cinema",
+  "city": "Eindhoven",
+  "address": "Dommelstraat 27",
+  "postalCode": "5611 CJ",
+  "latitude": 51.43976,
+  "longitude": 5.48288,
+  "description": "Bioscoop in het centrum van Eindhoven met actuele films en meerdere zalen."
+},
+{
+  "id": "forum-groningen",
+  "name": "Forum Groningen",
+  "type": "Cinema",
+  "city": "Groningen",
+  "address": "Nieuwe Markt 1",
+  "postalCode": "9712 KN",
+  "latitude": 53.21886,
+  "longitude": 6.56849,
+  "description": "Cultureel gebouw in Groningen met film, exposities, events en een rooftop cinema."
+},
+{
+  "id": "chasse-theater",
+  "name": "Chassé Theater",
+  "type": "Theater",
+  "city": "Breda",
+  "address": "Claudius Prinsenlaan 8",
+  "postalCode": "4811 DK",
+  "latitude": 51.58792,
+  "longitude": 4.78291,
+  "description": "Theater en cinema in Breda met een breed programma van voorstellingen, films en evenementen."
+},
+{
+  "id": "pathe-tilburg",
+  "name": "Pathé Tilburg",
+  "type": "Cinema",
+  "city": "Tilburg",
+  "address": "Pieter Vreedeplein 174",
+  "postalCode": "5038 BW",
+  "latitude": 51.55810,
+  "longitude": 5.09187,
+  "description": "Bioscoop in het centrum van Tilburg met actuele films en meerdere zalen."
+},
+{
+  "id": "musis-arnhem",
+  "name": "Musis Arnhem",
+  "type": "Theater",
+  "city": "Arnhem",
+  "address": "Velperbuitensingel 25",
+  "postalCode": "6828 CV",
+  "latitude": 51.98359,
+  "longitude": 5.91187,
+  "description": "Concertgebouw en podium in Arnhem met klassieke muziek, concerten en culturele evenementen."
+}
