@@ -1,58 +1,58 @@
 [
   {
-    "id": "afas-circustheater",
-    "name": "AFAS Circustheater",
-    "type": "Theater",
-    "city": "Den Haag",
-    "address": "Circusplein 50",
-    "postalCode": "2586 CZ",
-    "latitude": 52.1117,
-    "longitude": 4.2819,
-    "description": "Bekend musicaltheater in Scheveningen waar grote nationale en internationale producties worden opgevoerd."
-  },
-  {
-    "id": "chasse-theater",
-    "name": "Chassé Theater",
-    "type": "Theater",
-    "city": "Breda",
-    "address": "Claudius Prinsenlaan 8",
-    "postalCode": "4811 DK",
-    "latitude": 51.5879,
-    "longitude": 4.7829,
-    "description": "Groot theater en filmhuis in Breda met voorstellingen, films, concerten en evenementen."
-  },
-  {
-    "id": "delamar-theater",
-    "name": "DeLaMar",
-    "type": "Theater",
+    "id": "pathe-tuschinski",
+    "name": "Koninklijk Theater Tuschinski",
+    "type": "Cinema",
     "city": "Amsterdam",
-    "address": "Marnixstraat 402",
-    "postalCode": "1017 PL",
-    "latitude": 52.36429,
-    "longitude": 4.88094,
-    "description": "Theater bij het Leidseplein in Amsterdam met musicals, cabaret, toneel en entertainment."
+    "address": "Reguliersbreestraat 26-34",
+    "postalCode": "1017 CN",
+    "latitude": 52.36666029184586,  
+    "longitude": 4.895352629227928,
+    "description": "Historische bioscoop in Amsterdam met een monumentale uitstraling en actuele filmprogrammering."
   },
   {
-    "id": "de-doelen",
-    "name": "De Doelen",
-    "type": "Theater",
-    "city": "Rotterdam",
-    "address": "Schouwburgplein 50",
-    "postalCode": "3012 CL",
-    "latitude": 51.92182,
-    "longitude": 4.47329,
-    "description": "Concertgebouw en congreslocatie in het centrum van Rotterdam met een breed cultureel programma."
+    "id": "pathe-de-munt",
+    "name": "Pathé De Munt",
+    "type": "Cinema",
+    "city": "Amsterdam",
+    "address": "Vijzelstraat 15",
+    "postalCode": "1017 HD",
+    "latitude": 52.366584401049025, 
+    "longitude": 4.894114002823504,
+    "description": "Grote Pathé-bioscoop in het centrum van Amsterdam met meerdere zalen en populaire filmvoorstellingen."
   },
   {
     "id": "eye-filmmuseum",
-    "name": "EYE Filmmuseum",
+    "name": "Eye Filmmuseum",
     "type": "Cinema",
     "city": "Amsterdam",
     "address": "IJpromenade 1",
     "postalCode": "1031 KT",
-    "latitude": 52.38402,
-    "longitude": 4.90075,
-    "description": "Iconisch filmmuseum en filmtheater aan het IJ in Amsterdam met films, tentoonstellingen en festivals."
+    "latitude": 52.38448548966767,  
+    "longitude": 4.901694421852186,
+    "description": "Filmmuseum en bioscoop aan het IJ met tentoonstellingen, filmklassiekers en actuele filmprogrammering."
+  },
+  {
+    "id": "pathe-spuimarkt",
+    "name": "Pathé Spuimarkt",
+    "type": "Cinema",
+    "city": "Den Haag",
+    "address": "Spui 65",
+    "postalCode": "2511 BL", 
+    "latitude": 52.07750937058878, 
+    "longitude": 4.31641978445337,
+    "description": "Grote bioscoop in het centrum van Den Haag met onder andere IMAX en veel actuele films."
+  },
+  {
+    "id": "pathe-utrecht-leidsche-rijn",
+    "name": "Pathé Utrecht Leidsche Rijn",
+    "type": "Cinema",
+    "city": "Utrecht",
+    "address": "Berlijnplein 100",
+    "postalCode": "3541 CM",  
+    "latitude": 52.09680659288955,
+    "longitude": 5.070362412031331,
+    "description": "Moderne bioscoop in Leidsche Rijn Centrum met meerdere zalen, IMAX en 4DX."
   },
   {
     "id": "forum-groningen",
@@ -61,53 +61,64 @@
     "city": "Groningen",
     "address": "Nieuwe Markt 1",
     "postalCode": "9712 KN",
-    "latitude": 53.21886,
-    "longitude": 6.56849,
-    "description": "Cultureel gebouw in Groningen met filmzalen, exposities, evenementen en een dakterras."
+    "latitude": 53.21882923727104, 
+    "longitude": 6.570175237187907,
+    "description": "Cultureel gebouw in Groningen met filmzalen, exposities, events en een dakterras."
   },
   {
-    "id": "internationaal-theater-amsterdam",
-    "name": "Internationaal Theater Amsterdam",
-    "type": "Theater",
-    "city": "Amsterdam",
-    "address": "Leidseplein 26",
-    "postalCode": "1017 PT",
-    "latitude": 52.36472,
-    "longitude": 4.88122,
-    "description": "Groot theater aan het Leidseplein met toneel, festivals, premières en internationale producties."
-  },
-  {
-    "id": "kinepolis-jaarbeurs-utrecht",
-    "name": "Kinepolis Jaarbeurs Utrecht",
-    "type": "Cinema",
-    "city": "Utrecht",
-    "address": "Jaarbeursboulevard 300",
-    "postalCode": "3521 BC",
-    "latitude": 52.08798,
-    "longitude": 5.10662,
-    "description": "Grote moderne bioscoop bij Utrecht Centraal en de Jaarbeurs met veel zalen en actuele films."
-  },
-  {
-    "id": "kino-rotterdam",
-    "name": "KINO Rotterdam",
+    "id": "pathe-de-kuip",
+    "name": "Pathé De Kuip",
     "type": "Cinema",
     "city": "Rotterdam",
-    "address": "Gouvernestraat 129-133",
-    "postalCode": "3014 PM",
-    "latitude": 51.91758,
-    "longitude": 4.46868,
-    "description": "Filmtheater in Rotterdam met arthousefilms, klassiekers, premières en speciale filmavonden."
+    "address": "Cor Kieboomplein 501",
+    "postalCode": "3077 MK",
+    "latitude": 51.896842882939346,  
+    "longitude": 4.5234947641590955,
+    "description": "Grote bioscoop bij De Kuip met meerdere zalen, actuele films en ruime parkeermogelijkheden."
+  },
+  {
+    "id": "theater-rotterdam-schouwburg",
+    "name": "Theater Rotterdam Schouwburg",
+    "type": "Theater",
+    "city": "Rotterdam",
+    "address": "Schouwburgplein 25",
+    "postalCode": "3012 CL",
+    "latitude": 51.92022082847092,  
+    "longitude": 4.4746860561972746,
+    "description": "Centraal theater aan het Schouwburgplein met toneel, dans, performance en festivals."
   },
   {
     "id": "koninklijk-theater-carre",
     "name": "Koninklijk Theater Carré",
     "type": "Theater",
     "city": "Amsterdam",
-    "address": "Amstel 115",
+    "address": "Amstel 115-125",
     "postalCode": "1018 EM",
-    "latitude": 52.36245,
-    "longitude": 4.90455,
-    "description": "Historisch theater aan de Amstel met musicals, cabaret, concerten en grote theatervoorstellingen."
+    "latitude": 52.3625673441238,  
+    "longitude": 4.905336580778744,
+    "description": "Bekend theater aan de Amstel met musicals, cabaret, concerten en grote theatervoorstellingen."
+  },
+  {
+    "id": "delamar-theater",
+    "name": "DeLaMar Theater",
+    "type": "Theater",
+    "city": "Amsterdam",
+    "address": "Marnixstraat 402",
+    "postalCode": "1017 PL",
+    "latitude": 52.36435824854674,
+    "longitude": 4.8811079941976105,
+    "description": "Theater bij het Leidseplein met musicals, toneel, cabaret en entertainment."
+  },
+  {
+    "id": "afas-circustheater",
+    "name": "AFAS Circustheater",
+    "type": "Theater",
+    "city": "Den Haag",
+    "address": "Circusplein 50",
+    "postalCode": "2586 CZ",
+    "latitude": 52.110966512425826,  
+    "longitude": 4.2841182500876505,
+    "description": "Bekend theater in Scheveningen waar grote musicals en shows worden opgevoerd."
   },
   {
     "id": "nieuwe-luxor-theater",
@@ -116,107 +127,30 @@
     "city": "Rotterdam",
     "address": "Posthumalaan 1",
     "postalCode": "3072 AG",
-    "latitude": 51.90698,
-    "longitude": 4.49139,
-    "description": "Groot theater op de Kop van Zuid in Rotterdam met musicals, cabaret, concerten en shows."
+    "latitude": 51.90729344726058,  
+    "longitude": 4.490256380671638,
+    "description": "Groot theater op de Kop van Zuid met musicals, concerten, cabaret en grote producties."
   },
   {
-    "id": "oude-luxor-theater",
-    "name": "Oude Luxor Theater",
-    "type": "Theater",
-    "city": "Rotterdam",
-    "address": "Kruiskade 10",
-    "postalCode": "3012 EH",
-    "latitude": 51.92285,
-    "longitude": 4.47684,
-    "description": "Bekend theater in het centrum van Rotterdam met cabaret, muziek, toneel en entertainment."
-  },
-  {
-    "id": "parktheater-eindhoven",
-    "name": "Parktheater Eindhoven",
-    "type": "Theater",
-    "city": "Eindhoven",
-    "address": "Elzentlaan 50",
-    "postalCode": "5615 CN",
-    "latitude": 51.42995,
-    "longitude": 5.48733,
-    "description": "Groot theater in Eindhoven met cabaret, musical, dans, toneel, opera en familievoorstellingen."
-  },
-  {
-    "id": "pathe-arena",
-    "name": "Pathé Arena",
-    "type": "Cinema",
-    "city": "Amsterdam",
-    "address": "Johan Cruijff Boulevard 600",
-    "postalCode": "1101 DS",
-    "latitude": 52.3132,
-    "longitude": 4.9412,
-    "description": "Een van de grootste Pathé-bioscopen van Nederland, gelegen in Amsterdam-Zuidoost bij de Johan Cruijff ArenA."
-  },
-  {
-    "id": "pathe-eindhoven",
-    "name": "Pathé Eindhoven",
-    "type": "Cinema",
-    "city": "Eindhoven",
-    "address": "Dommelstraat 27",
-    "postalCode": "5611 CJ",
-    "latitude": 51.43976,
-    "longitude": 5.48288,
-    "description": "Bioscoop in het centrum van Eindhoven met meerdere zalen en actuele filmvoorstellingen."
-  },
-  {
-    "id": "pathe-schouwburgplein",
-    "name": "Pathé Schouwburgplein",
-    "type": "Cinema",
-    "city": "Rotterdam",
-    "address": "Schouwburgplein 101",
-    "postalCode": "3012 CL",
-    "latitude": 51.92161,
-    "longitude": 4.47351,
-    "description": "Grote bioscoop in het centrum van Rotterdam met meerdere zalen en een breed filmaanbod."
-  },
-  {
-    "id": "pathe-spuimarkt",
-    "name": "Pathé Spuimarkt",
-    "type": "Cinema",
-    "city": "Den Haag",
-    "address": "Spui 65",
-    "postalCode": "2511 BL",
-    "latitude": 52.07715,
-    "longitude": 4.31562,
-    "description": "Grote bioscoop in het centrum van Den Haag met veel zalen en actuele films."
-  },
-  {
-    "id": "pathe-tuschinski",
-    "name": "Koninklijk Theater Tuschinski",
-    "type": "Cinema",
-    "city": "Amsterdam",
-    "address": "Reguliersbreestraat 26-34",
-    "postalCode": "1017 CN",
-    "latitude": 52.36619,
-    "longitude": 4.8946,
-    "description": "Historische en bekende bioscoop in Amsterdam met een monumentale art-decostijl."
-  },
-  {
-    "id": "stadsschouwburg-utrecht",
-    "name": "Stadsschouwburg Utrecht",
+    "id": "tivolivredenburg",
+    "name": "TivoliVredenburg",
     "type": "Theater",
     "city": "Utrecht",
-    "address": "Lucasbolwerk 24",
-    "postalCode": "3512 EJ",
-    "latitude": 52.09311,
-    "longitude": 5.12719,
-    "description": "Theater aan de rand van het centrum van Utrecht met toneel, dans, cabaret en festivals."
+    "address": "Vredenburgkade 11",
+    "postalCode": "3511 WC",
+    "latitude": 52.0924413073981,  
+    "longitude": 5.112924385603392,
+    "description": "Muziekgebouw in Utrecht met meerdere zalen voor concerten, festivals en culturele evenementen."
   },
   {
-    "id": "ziggo-dome",
-    "name": "Ziggo Dome",
+    "id": "chasse-theater",
+    "name": "Chassé Theater",
     "type": "Theater",
-    "city": "Amsterdam",
-    "address": "De Passage 100",
-    "postalCode": "1101 AX",
-    "latitude": 52.31354,
-    "longitude": 4.93701,
-    "description": "Grote concert- en evenementenlocatie in Amsterdam-Zuidoost voor internationale artiesten en shows."
+    "city": "Breda",
+    "address": "Claudius Prinsenlaan 8",
+    "postalCode": "4811 DK",
+    "latitude": 51.58882224005694,  
+    "longitude": 4.78712788811839,
+    "description": "Theater en cinema in Breda met een breed programma van voorstellingen, films en evenementen."
   }
 ]
