@@ -1,6 +1,6 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-const HOTSPOTS_URL = "https://quinten-1074726.github.io/CineFind/hotspots.json";
+const HOTSPOTS_URL = "https://quinten-1074726.github.io/CineFind/hotspots-ditbestaatniet.json";
 const HOTSPOTS_STORAGE_KEY = "cachedHotspots";
 
 export async function getHotspots() {
